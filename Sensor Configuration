@@ -1,0 +1,13 @@
+The code is designed to work with 2 ultrasonic sensors and 2 light intensity sensors.
+The ultrasonic sensors should be placed so that one can detect blocks.
+Thus, 1) Placed lower and closer to the ground
+      2) Detect a flag at the disposal site. To avoid interference with the blocks, both the
+         sensor and flag should be at a greater height
+
+The intensity sensors can be placed any where in the front of the robot
+The chassis is also open to your imagination
+Finally, the Lego MindStorms limit the use of 3 motors. Thus, to operate the clamp with one motor
+a gear mechanism can be created to operate two claws symmetrically. This can be seen in the pictures 
+in this repo.
+
+Thanks for reading!
